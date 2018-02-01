@@ -1,16 +1,16 @@
-package com.infy.chartview.activity;
+package com.niks.chartview.activity;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.RelativeLayout;
 
-import com.infy.chartview.R;
-import com.infy.chartview.model.Graph;
-import com.infy.chartview.model.GraphValues;
-import com.infy.chartview.networkUtils.ApiClient;
-import com.infy.chartview.networkUtils.ApiInterface;
-import com.infy.chartview.view.ChartView;
+import com.niks.chartview.R;
+import com.niks.chartview.model.Graph;
+import com.niks.chartview.model.GraphValues;
+import com.niks.chartview.networkUtils.ApiClient;
+import com.niks.chartview.networkUtils.ApiInterface;
+import com.niks.chartview.view.ChartView;
 
 import java.util.List;
 

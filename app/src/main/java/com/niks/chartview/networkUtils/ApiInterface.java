@@ -1,9 +1,9 @@
-package com.infy.chartview.networkUtils;
+package com.niks.chartview.networkUtils;
 
 /**
  * Created by nikhil on 30/1/18.
  */
-import com.infy.chartview.model.Graph;
+import com.niks.chartview.model.Graph;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

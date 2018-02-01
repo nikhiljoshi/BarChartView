@@ -13,4 +13,4 @@
   5.2) Background Color
 
 
-  Architected  BarChartView component using MVP pattern
+Architected  BarChartView component using MVP pattern

@@ -5,10 +5,10 @@
     android:layout_width="match_parent"
     android:background="#87CEFA"
     android:layout_height="match_parent"
-    tools:context="com.infy.chartview.activity.MainActivity">
+    tools:context="com.niks.chartview.activity.MainActivity">
 
 
-    <com.infy.chartview.view.ChartView
+    <com.niks.chartview.view.ChartView
         android:id="@+id/chart"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />

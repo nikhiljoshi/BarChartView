@@ -1,4 +1,4 @@
-package com.infy.chartview.view;
+package com.niks.chartview.view;
 
 import android.content.Context;
 import android.graphics.Canvas;
