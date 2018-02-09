@@ -1,4 +1,4 @@
-package com.niks.chartview.model;
+package com.infy.chartview.model;
 
 import com.google.gson.annotations.SerializedName;
 

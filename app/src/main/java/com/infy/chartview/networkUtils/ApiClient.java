@@ -1,4 +1,4 @@
-package com.niks.chartview.networkUtils;
+package com.infy.chartview.networkUtils;
 
 /**
  * Created by nikhil on 30/1/18.
